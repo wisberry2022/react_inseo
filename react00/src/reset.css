@@ -1,0 +1,20 @@
+@import url('https://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ddd;
+}
+
+body {
+  background-color: #333;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.big {
+  font-size: 100px;
+}
